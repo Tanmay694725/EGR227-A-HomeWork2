@@ -2,6 +2,7 @@ import org.junit.*;     // JUnit tools
 
 import java.util.*;     // Collections
 import java.io.*;       // File access
+import test
 
 /**
  * Modify this comment
